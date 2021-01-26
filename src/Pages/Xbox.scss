@@ -1,0 +1,30 @@
+.xbox {
+  height: 350px;
+  width: 100%;
+  background: url("https://i.ibb.co/tBJGPD9/xbox.png") no-repeat center
+    center/cover;
+  margin-bottom: 20px;
+  .content {
+    width: 40%;
+    padding: 50px 0 0 30px;
+  }
+  p {
+    margin: 10px 0 20px;
+  }
+
+  .btn {
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #262626;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+  }
+
+  .btn:hover {
+    opacity: 0.9;
+  }
+}

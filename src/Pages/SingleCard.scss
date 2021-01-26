@@ -1,0 +1,22 @@
+.singleCard {
+  img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    margin-bottom: 5px;
+  }
+
+  a {
+    display: inline-block;
+    padding-top: 10px;
+    color: #0067b8;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+
+  a:hover {
+    margin-left: 10px;
+  }
+}
