@@ -24,4 +24,13 @@
   .header__menu > li > a:hover {
     border-bottom: 2px solid #262626;
   }
+
+  .right__menu {
+    display: flex;
+    align-items: center;
+
+    li {
+      margin: 20px;
+    }
+  }
 }

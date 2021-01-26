@@ -1,0 +1,27 @@
+.carbon {
+  height: 350px;
+  width: 100%;
+  background: url("https://i.ibb.co/72cgtsz/carbon.jpg") no-repeat center
+    center/cover;
+
+  .content {
+    color: #fff;
+    width: 55%;
+    padding: 100px 0 0 30px;
+    p {
+      margin: 10px 0 20px;
+    }
+
+    .btn {
+      background: #f4f4f4;
+      color: #333;
+      cursor: pointer;
+      display: inline-block;
+      border: 0;
+      font-weight: bold;
+      padding: 10px 20px;
+      font-size: 15px;
+      margin-top: 20px;
+    }
+  }
+}
